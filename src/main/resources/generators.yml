@@ -1,0 +1,7 @@
+generators:
+  stone:
+    item:
+      material: STONE
+      name: "STONE GENERATOR"
+      lore:
+        - "&7This is a stone generator!"

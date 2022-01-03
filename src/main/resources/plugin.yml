@@ -1,0 +1,12 @@
+name: ModernGens
+version: '${project.version}'
+main: net.foggies.moderngens.ModernGens
+api-version: 1.17
+authors: [ foggies ]
+description: Modern Generators To Generate OP Items.
+commands:
+  gens:
+    description: Generators Base Command
+    aliases: [generators, gen, generator]
+    permission: gens.admin
+    permission-message: "&cYou do not have permission to use this command."
